@@ -2,7 +2,6 @@ package org.example;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-
 public class Driver {
     private String name;
     @Autowired
